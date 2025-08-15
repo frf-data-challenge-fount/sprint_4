@@ -1,6 +1,6 @@
 # Sprint 4
 
-In this course, you will predict relevant tree metrics from a tree list derived from TLS. A single notebook has been provided with instructions on which tasks to complete.
+In this courselet, you will predict relevant tree metrics from a tree list derived from TLS. A single notebook has been provided with instructions on which tasks to complete.
 
 There is no `requirements.txt` file for this courselet because each learner is free to choose any open library to complete the tasks.
 
